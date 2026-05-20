@@ -42,7 +42,7 @@ I used Scapy to analyze, capture, and manipulate network packets.
   ![ICMP Connectivity Test](screenshots/scapy_II_connectivity-test-ping-cisco.png)
   
 - I sniffed network traffic and observed different protocols such as TCP, UDP, and ICMP.
-  ![Packet Sniffing Summary](screenshots/scapy_III_packet-sniffing-summary.png)
+  ![Packet Sniffing Summary](screenshots/scapy_III_packet-summary-detailed-view.png)
   
 - I filtered captured traffic to focus specifically on ICMP packets.
 - I exported captured traffic into a `.pcap` file for further analysis.
