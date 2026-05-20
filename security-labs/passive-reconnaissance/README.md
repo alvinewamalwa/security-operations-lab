@@ -10,9 +10,9 @@ Tools & Techniques Used
 a) ![Recon-ng Module Execution](screenshots/recon-ng-module-execution-output..png)
 I executed Recon-ng modules from the marketplace to perform OSINT data collection. I ran both the hackertarget and bing modules and in each I found 7 subdomains that had been listed. The results are shown in a tabular form in the screenshot above
 
-b) ![Recon-ng Module Execution](screenshots/)
+b) ![Recon-ng Module Execution](screenshots/recon-ng-interestingfiles.png)
 
-*Executed Recon-ng modules from the marketplace to perform OSINT data collection.*
+I went ahead and tried to find interesting files following the same method in running the hackertarget and bing modules above. I ran the module as shown and even found that it creates a CSV file in the recon-ng/data folder which makes analysis and presentation of reports easier.
 
 
   
