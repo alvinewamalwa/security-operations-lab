@@ -36,6 +36,8 @@ I used Nmap to perform network discovery and detailed scanning of the DMZ networ
 I used Scapy to analyze, capture, and manipulate network packets.
 
 - I obtained root privileges and launched Scapy to begin packet-level analysis.
+  ![Scapy Initialization and Root Access](screenshots/scapy_I_initialization-root-access.png)
+
 - I verified connectivity by sending ICMP packets (ping) to external hosts.
 - I sniffed network traffic and observed different protocols such as TCP, UDP, and ICMP.
 - I filtered captured traffic to focus specifically on ICMP packets.
