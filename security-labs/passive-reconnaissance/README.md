@@ -6,6 +6,16 @@ This section demonstrates my hands-on experience with passive reconnaissance tec
 Tools & Techniques Used
 
 * Recon-ng (module installation, execution, and reporting)
+  
+a) ![Recon-ng Module Execution](screenshots/recon-ng-module-execution-output..png)
+I executed Recon-ng modules from the marketplace to perform OSINT data collection. I ran both the hackertarget and bing modules and in each I found 7 subdomains that had been listed. The results are shown in a tabular form in the screenshot above
+
+b) ![Recon-ng Module Execution](screenshots/)
+
+*Executed Recon-ng modules from the marketplace to perform OSINT data collection.*
+
+
+  
 * DNS enumeration (nslookup, dig, host)
 * WHOIS lookups
 * Reverse DNS analysis
@@ -29,3 +39,5 @@ Screenshots of tool execution and results are included in the /screenshots direc
 Outcome
 
 Developed a strong understanding of how attackers gather intelligence during the reconnaissance phase and how publicly available data can expose critical information.
+
+
