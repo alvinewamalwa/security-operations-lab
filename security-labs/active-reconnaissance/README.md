@@ -76,6 +76,9 @@ I used tcpdump and Wireshark to capture and analyze live network traffic.
 
 - I used `ifconfig` to identify the active network interface.
 - I used `ip route` to determine the default gateway.
+
+![Interface Identification](screenshots/wireshark_I_default-gateway-and-dns-info.png)
+  
 - I checked DNS configuration using `/etc/resolv.conf`.
 - I captured network traffic using `tcpdump` on the `eth0` interface.
 - I saved the captured traffic into a `.pcap` file.
