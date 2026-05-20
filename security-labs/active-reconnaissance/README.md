@@ -48,6 +48,7 @@ I used Scapy to analyze, capture, and manipulate network packets.
 ![Packet Summary Analysis](screenshots/scapy_IV_packet-sniffing-summary-count.png)
   
 - I exported captured traffic into a `.pcap` file for further analysis.
+  ![Saving Captured Traffic](screenshots/scapy_capture_I_filtered-sniff-icmp-br-internal.png)
 
 I also performed packet crafting:
 
