@@ -3,5 +3,5 @@
 - Linux system usage in security contexts  
 - Network discovery and analysis  
 - Reading and interpreting logs  
-- Building small security tools with Python  
+- Building security tools with Python  
 - Getting comfortable with security thinking in general  
