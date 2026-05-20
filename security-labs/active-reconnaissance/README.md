@@ -53,8 +53,13 @@ I used Scapy to analyze, capture, and manipulate network packets.
 
 I also performed packet crafting:
 
-- I created and sent custom ICMP packets to the target host (10.6.6.23).
+- I created and sent custom ICMP packets to the target host (10.6.6.23); I loaded the scapy tool on the terminal using the comman scappy, went ahead to issue the commant sniff(iface="br-internal") to sniff traffic from the interface connected to the 10.6.6.0/24 network. I opened another terminal and loaded the scapy tool of course with the aid of the root privileges and on the current scapy terminal window I issued the command send(IP(dst="10.6.6.23")/ICMP()/"This is a test"), I went back to the previous scapy terminal exited and using the summary tool, voila! the display of the types of packets are shown.
+ 
+    ![Custom ICMP Packet Injection](screenshots/scapy_custom_I_packet-summary-analysis.png)
+  
 - I analyzed packet summaries and detailed packet structures.
+
+  
 - I compared multiple packets to observe differences in responses.
 
 **What I discovered:**
