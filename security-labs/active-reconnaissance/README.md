@@ -47,8 +47,9 @@ I used Scapy to analyze, capture, and manipulate network packets.
 - I filtered captured traffic to focus specifically on ICMP packets.
 ![Packet Summary Analysis](screenshots/scapy_IV_packet-sniffing-summary-count.png)
   
-- I exported captured traffic into a `.pcap` file for further analysis.
   ![Saving Captured Traffic](screenshots/scapy_capture_I_filtered-sniff-icmp-br-internal.png)
+  - I exported captured traffic into a `.pcap` file for further analysis( I used wrpcap() functionto save the captured data to `pcap` file that can be opened by wireshark and other applications. by simply typing on the terminal(scapy window terminal); wrpcap("capture1.pcap", a)
+    
 
 I also performed packet crafting:
 
