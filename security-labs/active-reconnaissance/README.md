@@ -39,7 +39,7 @@ I used Scapy to analyze, capture, and manipulate network packets.
   ![Scapy Initialization and Root Access](screenshots/scapy_I_initialization-root-access.png)
 
 - I verified connectivity by sending ICMP packets (ping) to external hosts.
-  ![ICMP Connectivity Test](scapy_II_connectivity-test-ping-cisco.png)
+  ![ICMP Connectivity Test](screenchots/scapy_II_connectivity-test-ping-cisco.png)
   
 - I sniffed network traffic and observed different protocols such as TCP, UDP, and ICMP.
 - I filtered captured traffic to focus specifically on ICMP packets.
