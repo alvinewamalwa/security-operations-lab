@@ -84,7 +84,7 @@ I used tcpdump and Wireshark to capture and analyze live network traffic.
 - I saved the captured traffic into a `.pcap` file.
 
 I then analyzed the traffic using Wireshark:
-![Routing Information](screenshotswireshark_II_pcap_analysis-in-wireshark.png)
+![Routing Information](screenshots/wireshark_II_pcap_analysis-in-wireshark.png)
 
 - I opened the `.pcap` file and inspected packet-level details.
 - I identified source and destination IP addresses.
