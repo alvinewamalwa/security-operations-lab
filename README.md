@@ -2,6 +2,9 @@
 
 This repository documents my ongoing hands-on cybersecurity learning journey through structured practical labs. The focus is on developing real-world skills in system administration, networking, reconnaissance, exploitation simulation, and security automation using industry-relevant tools.
 
+## Security Labs
+
+This section contains practical cybersecurity labs with screenshots to make them easier to understand. The labs are performed in controlled environments covering reconnaissance, exploitation simulation, defensive analysis, automation of scans, SET etc 
 
 ---
 
@@ -31,9 +34,6 @@ This section focuses on network inspection and analysis using Linux tools to und
 
 ---
 
-## Security Labs
-
-This section contains practical cybersecurity labs with screenshots to make them easier to understand. The labs are performed in controlled environments covering reconnaissance, exploitation simulation, defensive analysis, automation of scans, SET etc 
 
 
 
