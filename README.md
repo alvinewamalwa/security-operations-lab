@@ -33,20 +33,9 @@ This section focuses on network inspection and analysis using Linux tools to und
 
 ## Security Labs
 
-This section contains practical cybersecurity labs performed in controlled environments covering reconnaissance, exploitation simulation, defensive analysis etc
+This section contains practical cybersecurity labs with screenshots to make them easier to understand. The labs are performed in controlled environments covering reconnaissance, exploitation simulation, defensive analysis, automation of scans, SET etc 
 
-### Passive Reconnaissance (OSINT)
 
-### Active Reconnaissance
-
-### Social Engineering and Browser Exploitation
-- Social Engineering Toolkit (SET)
-- Credential harvesting via cloned websites
-- Infectious media simulation
-- BeEF browser exploitation framework
-- etc.
-
----
 
 ## Python Projects
 
