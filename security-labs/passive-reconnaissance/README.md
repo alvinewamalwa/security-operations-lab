@@ -1,9 +1,9 @@
-#Source / Learning Context
+# Source / Learning Context
 This lab was completed as part of the Cisco Networking Academy cybersecurity training program. All activities were performed in a controlled lab environment for educational purposes, following ethical guidelines.
 
 This section demonstrates my hands-on experience with passive reconnaissance techniques used to gather publicly available information without directly interacting with the target.
 
-Tools & Techniques Used
+## Tools & Techniques Used
 
 * Recon-ng (module installation, execution, and reporting)
   
@@ -50,5 +50,6 @@ Key Activities
 Outcome
 
 Developed a strong understanding of how attackers gather intelligence during the reconnaissance phase and how publicly available data can expose critical information.
+I also understood how certain details about an organization could pave way for an attacker to have access into the organisation's system and how important it is to keep such details private unless otherwise.
 
 
