@@ -44,18 +44,18 @@ After login, the user was redirected back to the legitimate site:
 
 DVWA.vm/login.php
 
-Observation:
+## Observation:
 The user believed they were interacting with the real website, while their credentials were captured by the cloned page.
 
-Captured Information:
+## Captured Information:
 
 Username
 Password
 
-Finding:
+## Finding:
 The cloned webpage successfully harvested user credentials before redirecting the victim to the legitimate site, making the attack less noticeable.
 
-IV) Attack Scenario & Real-World Application
+## IV) Attack Scenario & Real-World Application
 
 I observed that this technique can be used in phishing attacks by:
 
