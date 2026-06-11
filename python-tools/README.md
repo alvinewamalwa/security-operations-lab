@@ -6,7 +6,7 @@ This directory contains custom Python scripts developed and used during lab simu
 
 ## I) Port Scanner
 
-A simple port scanning tool used to identify open ports on a target system. It helps in understanding exposed services and potential attack surfaces during reconnaissance.
+A simple port scanning tool I used to identify open ports on a target system. It helps in understanding exposed services and potential attack surfaces during reconnaissance.
 
 File: `port-scanner.py`
 
@@ -45,7 +45,7 @@ File: `ip-geolocation-lookup.py`
 ---
 
 ## VI) Banner Grabbing
-
+This script extends port scanning by retrieving service banners, enabling identification of running services and potential vulnerabilities for detection and monitoring.
 
 - Port scanning of common services
 - Detection of open ports
