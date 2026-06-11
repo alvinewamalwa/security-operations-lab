@@ -113,9 +113,10 @@ Lightweight and fast for simple tasks
 
 
 Python
-Easy to read and write
-Extensive libraries for networking, security, and automation
-Widely used in penetration testing tools
+Easy to read and write.
+Extensive libraries for networking, security, and automation.
+Widely used in penetration testing tools.
+Also used in SIEM tools
 
 
 Ruby
