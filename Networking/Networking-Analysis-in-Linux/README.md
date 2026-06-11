@@ -20,7 +20,7 @@ MAC address information
 
 This helped me understand how the system is positioned within the network.
 
-II) Routing Path Analysis
+## II) Routing Path Analysis
 
 I examined the routing table to understand how traffic is directed within and outside the network.
 
@@ -34,7 +34,7 @@ Traffic flow direction to external networks
 
 This information is useful in mapping network topology during reconnaissance.
 
-III) DNS Resolution Inspection
+## III) DNS Resolution Inspection
 
 I reviewed DNS configuration to understand how domain name resolution is handled.
 
@@ -47,7 +47,7 @@ Name resolution settings used by the system
 
 This helps in understanding how external domains are resolved in the network.
 
-IV) Connectivity and Network Behavior
+## IV) Connectivity and Network Behavior
 
 I tested connectivity and network responsiveness using ICMP requests.
 
@@ -61,7 +61,7 @@ Stability of the connection
 
 This helps assess whether a host is reachable and responsive.
 
-V) Security Relevance
+## V) Security Relevance
 
 Network inspection is critical in cybersecurity because it supports:
 
