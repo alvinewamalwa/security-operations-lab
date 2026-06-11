@@ -1,6 +1,6 @@
 # Python Tools (Cybersecurity Toolkit)
 
-This section contains Python-based cybersecurity tools developed during my learning journey. The projects focus on automation, reconnaissance, log analysis, and security validation tasks that I used in penetration testing and system analysis.
+This directory contains custom Python scripts developed and used during lab simulations. The tools focus on automation, reconnaissance, log analysis, and security validation tasks that I used in system analysis. I applied each tool to complement practical security labs by automating repetitive tasks and improving the efficiency of security investigations.
 
 ---
 
