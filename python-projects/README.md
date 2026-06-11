@@ -1,4 +1,4 @@
-# Python Projects (Cybersecurity Toolkit)
+# Python Tools (Cybersecurity Toolkit)
 
 This section contains Python-based cybersecurity tools developed during my learning journey. The projects focus on automation, reconnaissance, log analysis, and security validation tasks commonly used in penetration testing and system analysis.
 
