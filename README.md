@@ -1,29 +1,18 @@
-# Cybersecurity Lab Portfolio
+# Security-operations-lab
 
-This repository documents my ongoing hands-on cybersecurity learning journey through structured practical labs. The focus is on developing real-world skills in system administration, networking, reconnaissance, exploitation simulation, and security automation using industry-relevant tools.
+This repository documents my ongoing hands-on cybersecurity practical labs, tools, and analysis performed in a controlled environment. The work reflects a practical approach to understanding how systems are attacked, how networks behave, and how security analysis can be performed using both manual and automated techniques.
 
 ## Security Labs
 
-This section contains practical cybersecurity labs with screenshots to make them easier to understand. The labs are performed in controlled environments covering reconnaissance, exploitation simulation, defensive analysis, automation of scans, SET etc 
+The work presented here demonstrates practical understanding of how attacks are conducted, how they can be detected, and how systems can be monitored and defended. This section contains practical labs with screenshots to make them easier to understand. The labs cover reconnaissance, exploitation simulation, defensive analysis, automation of scans, SET etc 
 
----
+# Purpose: These labs were conducted to understand attacker behavior and techniques, with the goal of improving the ability to analyze, detect, and respond to security threats from a defensive standpoint.
 
-## Linux Skills
-
-This section covers Linux system operations and command-line skills used in cybersecurity and system analysis.
-
-- File system navigation and management
-- File permissions and ownership control
-- Network configuration and routing inspection
-- DNS and connectivity analysis
-- Bash scripting and automation
-- etc.
-
----
 
 ## Networking
 
-This section focuses on network inspection and analysis using Linux tools to understand system communication and traffic flow.
+This section documents practical networking tasks performed using Linux, with a focus on analyzing network behavior and understanding how systems communicate within a network.
+
 
 - Interface and IP configuration analysis
 - Routing table inspection
@@ -32,12 +21,15 @@ This section focuses on network inspection and analysis using Linux tools to und
 - Domain and network information lookup
 - etc.
 
+  # Purpose
+  The goal of this section is to demonstrate the ability to use Linux-based tools to inspect, analyze, and interpret network activity—an essential skill in cybersecurity for detecting anomalies and investigating potential security incidents.
+
 ---
 
 
 
 
-## Python Projects
+## Python Tools
 
 This section contains Python-based cybersecurity tools for automation, analysis, and reconnaissance.
 
@@ -48,10 +40,20 @@ This section contains Python-based cybersecurity tools for automation, analysis,
 - IP geolocation lookup tool
 - etc.
 
----
-
-## Objective
-
-To demonstrate practical cybersecurity skills through continuous hands-on labs that simulate real-world attack and defense scenarios.
+  # Purpose
+   To demonstrate how automation can be used to improve efficiency in security operations, assist in detecting suspicious activity, and support analysis workflows.
 
 ---
+
+## Skills Demonstrated
+-Network reconnaissance and analysis
+-Vulnerability identification and exploitation (controlled environment)
+-Log analysis and interpretation
+-Traffic and connection monitoring
+-Security tool development using Python
+-Documentation and reporting of findings
+
+---
+Disclaimer
+
+All activities documented in this repository were conducted in controlled lab environments for educational purposes only. No unauthorized systems or networks were targeted.
